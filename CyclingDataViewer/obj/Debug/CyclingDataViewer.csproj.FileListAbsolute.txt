@@ -1,0 +1,10 @@
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\obj\Debug\CyclingDataViewer.Form1.resources
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\obj\Debug\CyclingDataViewer.Properties.Resources.resources
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\obj\Debug\CyclingDataViewer.csproj.GenerateResource.Cache
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\bin\Debug\CyclingDataViewer.exe.config
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\bin\Debug\CyclingDataViewer.exe
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\bin\Debug\CyclingDataViewer.pdb
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\obj\Debug\CyclingDataViewer.exe
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\obj\Debug\CyclingDataViewer.pdb
+C:\Users\wilson\documents\visual studio 2013\Projects\CyclingDataViewer\CyclingDataViewer\obj\Debug\CyclingDataViewer.csprojResolveAssemblyReference.cache
